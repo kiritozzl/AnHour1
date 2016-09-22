@@ -1,0 +1,8 @@
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\an_hour\AlarmService$override.class
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\an_hour\MainActivity$2$override.class
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\an_hour\receiver\RestartReceiver$override.class
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\an_hour\MainActivity$1$override.class
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\an_hour\MainActivity$3$override.class
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\an_hour\MainActivity$override.class
+CHANGED,C:\Users\kirito\Desktop\AnHour1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\an_hour\MainActivity$4$override.class
